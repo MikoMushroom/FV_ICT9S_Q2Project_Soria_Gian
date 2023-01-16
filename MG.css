@@ -1,0 +1,29 @@
+body
+{
+	background-image: url(MG_BG.png);
+	background-size: auto;
+}
+table 
+{
+	margin: auto;
+	border-color: #cfcfcf;
+	padding: 20px
+	border-width: 2px
+	border-style: dashed;
+}
+
+h1
+{
+	color:#9e9975
+}
+
+h3
+{
+	color:#a3a08b;
+	letter-spacing: 2px;
+
+}
+ol
+{
+	text-decoration: underline;
+}
